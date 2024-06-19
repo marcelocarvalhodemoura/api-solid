@@ -21,8 +21,8 @@ Gympass style app
 - [X] O usuário não pode fazer o check-in em mais de uma academia no mesmo dia;
 - [X] O usuário não pode fazer o check-in em uma academia a menos que esteja próximo (100m) dela;
 - [X] O check-in só poder ser validade até 20 minutos após a criação;
-- [ ] O check-in só pode ser validade por administradores;
-- [ ] A academia só pode ser cadastrada por administradores;
+- [X] O check-in só pode ser validade por administradores;
+- [X] A academia só pode ser cadastrada por administradores;
 
 
 ## Requisito não funcionais
@@ -32,4 +32,4 @@ Gympass style app
 - [X] O sistema deve ser desenvolvido em inglês;
 - [X] Os dados da aplicação deverão ser persistidos em um banco de dados relacional, PostgreSQL;
 - [X] Todas listagens de dados precisam ser paginadas com 20 item por página;
-- [ ] O usuário deverá ser identificado por um token JWT;
+- [X] O usuário deverá ser identificado por um token JWT;
