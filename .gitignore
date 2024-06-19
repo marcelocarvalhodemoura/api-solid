@@ -1,0 +1,5 @@
+# Variables
+.env
+dist/
+node_modules/
+coverage/
